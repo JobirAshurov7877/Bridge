@@ -1,0 +1,9 @@
+export { default as Home } from "./Home";
+export { default as Catalog } from "./Catalog";
+export { default as Contact } from "./Contact";
+export { default as Useful } from "./Useful";
+export { default as Services } from "./Services";
+export { default as ServicesDetail } from "./Services-detail";
+export { default as CategoryDetail } from "./Category-detail";
+export { default as UsefulDetail } from "./Useful-detail";
+export { default as FilterCatalog } from "./FilterCatalog";
